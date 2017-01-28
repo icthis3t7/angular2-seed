@@ -15,6 +15,7 @@ import { RepoDetailComponent } from './github/repo-detail/repo-detail.component'
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 import { ContactComponent } from './contact/contact.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -37,6 +38,8 @@ import { ContactComponent } from './contact/contact.component';
   ],
   bootstrap: [ AppComponent ]
 })
+
+
 export class AppModule {
 
 }
