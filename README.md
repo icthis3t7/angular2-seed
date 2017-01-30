@@ -1,6 +1,8 @@
-## angular2-seed
+## angular2-seed-lul
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+A fork of [angular2-seed](https://github.com/angular/angular2-seed), a simple starter project demonstrating the basic concepts of Angular 2.
+
+I'm making personal modifications and stuff.
 
 
 ### Usage
